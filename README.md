@@ -1,4 +1,4 @@
-# ♟️ FreeChessIcon
+# ♟️ FreeChessIcons
 
 Welcome, developer/hacker/tactical mastermind! This is **FreeChessIcon**, a small but mighty repo packed with **free-to-use chess piece icons** in beautiful, simple **124x124 PNG format**—because not every knight needs a full suit of armor to be effective.
 
