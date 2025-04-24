@@ -30,7 +30,7 @@ Full license here: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0
 Direct link from the repo like a web sorcerer:
 
 ```html
-<img src="https://github.com/POWERHACK69/FreeChessIcons/main/white_king.svg" alt="White King">
+<img src="https://raw.githubusercontent.com/POWERHACK69/FreeChessIcons/0fafe5026bdccd392c3e02dc53926db1a3452a41/white_king.svg" alt="White King">
 ```
 
 Swap the filename to match your piece. i.e to load the black bishop, change the "white_king.svg" to "black_bishop.svg" 
