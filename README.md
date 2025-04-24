@@ -21,7 +21,7 @@ Licensed under the **Creative Commons Attribution-ShareAlike 3.0** (CC BY-SA 3.0
 > Use them in personal or commercial projects. Remix them. Embed them in your dreams.  
 >
 > ❗ **You must:**  
-> Credit **[POWERHACK](https://powerhack.itch.io/)**, and share alike if you modify them.
+> share alike, even if you modify them.
 
 Full license here: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
